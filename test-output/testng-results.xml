@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-11-26T12:21:30 EET" name="Default suite" finished-at="2025-11-26T12:21:58 EET" duration-ms="27970">
+    <groups>
+    </groups>
+    <test started-at="2025-11-26T12:21:30 EET" name="Default test" finished-at="2025-11-26T12:21:58 EET" duration-ms="27970">
+      <class name="MyTestCases">
+        <test-method is-config="true" signature="myBeforeTest()[pri:0, instance:MyTestCases@44e3a2b2]" started-at="2025-11-26T12:21:30 EET" name="myBeforeTest" finished-at="2025-11-26T12:21:38 EET" duration-ms="8407" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myBeforeTest -->
+        <test-method signature="AddNewRecord()[pri:1, instance:MyTestCases@44e3a2b2]" started-at="2025-11-26T12:21:38 EET" name="AddNewRecord" finished-at="2025-11-26T12:21:38 EET" duration-ms="77" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddNewRecord -->
+        <test-method signature="updateData()[pri:2, instance:MyTestCases@44e3a2b2]" started-at="2025-11-26T12:21:38 EET" name="updateData" finished-at="2025-11-26T12:21:38 EET" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateData -->
+        <test-method signature="ReadData()[pri:3, instance:MyTestCases@44e3a2b2]" started-at="2025-11-26T12:21:38 EET" name="ReadData" finished-at="2025-11-26T12:21:39 EET" duration-ms="150" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReadData -->
+        <test-method signature="deleteData()[pri:4, instance:MyTestCases@44e3a2b2]" started-at="2025-11-26T12:21:39 EET" name="deleteData" finished-at="2025-11-26T12:21:39 EET" duration-ms="310" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteData -->
+        <test-method signature="SignupTest()[pri:5, instance:MyTestCases@44e3a2b2]" started-at="2025-11-26T12:21:39 EET" name="SignupTest" finished-at="2025-11-26T12:21:54 EET" duration-ms="15253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignupTest -->
+        <test-method signature="LogoutTest()[pri:6, instance:MyTestCases@44e3a2b2]" started-at="2025-11-26T12:21:54 EET" name="LogoutTest" finished-at="2025-11-26T12:21:58 EET" duration-ms="3516" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutTest -->
+      </class> <!-- MyTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
